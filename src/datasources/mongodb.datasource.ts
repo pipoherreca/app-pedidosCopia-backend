@@ -4,7 +4,7 @@ import {juggler} from '@loopback/repository';
 const config = {
   name: 'mongoDb',
   connector: 'mongodb',
-  url: 'mongodb+srv://prog_web_c4:ProgWebMinTic2022@ciclo4.fmou8ai.mongodb.net/PedidosDb?retryWrites=true&w=majority',
+  url: 'mongodb+srv://progc4:progc4@clusterciclo4.atsryl3.mongodb.net/PedidosBD?retryWrites=true&w=majority',
   host: '',
   port: 0,
   user: '',
